@@ -1,0 +1,24 @@
+C:\Users\ASUS\OneDrive\Desktop\jocul final\memoryGame\memoryGame\bin\Debug\memoryGame.exe.config
+C:\Users\ASUS\OneDrive\Desktop\jocul final\memoryGame\memoryGame\bin\Debug\memoryGame.exe
+C:\Users\ASUS\OneDrive\Desktop\jocul final\memoryGame\memoryGame\bin\Debug\memoryGame.pdb
+C:\Users\ASUS\OneDrive\Desktop\jocul final\memoryGame\memoryGame\obj\Debug\memoryGame.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\jocul final\memoryGame\memoryGame\obj\Debug\memoryGame.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Desktop\jocul final\memoryGame\memoryGame\obj\Debug\memoryGame.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Desktop\jocul final\memoryGame\memoryGame\obj\Debug\memoryGame.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\jocul final\memoryGame\memoryGame\obj\Debug\memoryGame.exe
+C:\Users\ASUS\OneDrive\Desktop\jocul final\memoryGame\memoryGame\obj\Debug\memoryGame.pdb
+C:\Users\ASUS\OneDrive\Desktop\jocul final\memoryGame\memoryGame\obj\Debug\memoryGame.FirstForm.resources
+C:\Users\ASUS\OneDrive\Desktop\jocul final\memoryGame\memoryGame\obj\Debug\memoryGame.LoginPage.resources
+C:\Users\ASUS\OneDrive\Desktop\jocul final\memoryGame\memoryGame\obj\Debug\memoryGame.GameArea.resources
+C:\Desktop\Facultate\POO\jocul final\memoryGame client\memoryGame\bin\Debug\memoryGame.exe.config
+C:\Desktop\Facultate\POO\jocul final\memoryGame client\memoryGame\bin\Debug\memoryGame.exe
+C:\Desktop\Facultate\POO\jocul final\memoryGame client\memoryGame\bin\Debug\memoryGame.pdb
+C:\Desktop\Facultate\POO\jocul final\memoryGame client\memoryGame\obj\Debug\memoryGame.csproj.AssemblyReference.cache
+C:\Desktop\Facultate\POO\jocul final\memoryGame client\memoryGame\obj\Debug\memoryGame.GameArea.resources
+C:\Desktop\Facultate\POO\jocul final\memoryGame client\memoryGame\obj\Debug\memoryGame.FirstForm.resources
+C:\Desktop\Facultate\POO\jocul final\memoryGame client\memoryGame\obj\Debug\memoryGame.LoginPage.resources
+C:\Desktop\Facultate\POO\jocul final\memoryGame client\memoryGame\obj\Debug\memoryGame.Properties.Resources.resources
+C:\Desktop\Facultate\POO\jocul final\memoryGame client\memoryGame\obj\Debug\memoryGame.csproj.GenerateResource.cache
+C:\Desktop\Facultate\POO\jocul final\memoryGame client\memoryGame\obj\Debug\memoryGame.csproj.CoreCompileInputs.cache
+C:\Desktop\Facultate\POO\jocul final\memoryGame client\memoryGame\obj\Debug\memoryGame.exe
+C:\Desktop\Facultate\POO\jocul final\memoryGame client\memoryGame\obj\Debug\memoryGame.pdb
